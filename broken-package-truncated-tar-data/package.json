@@ -1,0 +1,9 @@
+{
+  "name": "broken-package-truncated-tar-data",
+  "version": "1.0.0",
+  "description": "Incomplete package tar file",
+  "license": "MIT",
+  "scripts": {
+     "build": "build.sh"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "broken-package-truncated-gz",
+  "version": "1.0.0",
+  "description": "A broken package file",
+  "license": "MIT",
+  "scripts": {
+     "build": "./build.sh"
+  }
+}
